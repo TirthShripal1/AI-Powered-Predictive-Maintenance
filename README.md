@@ -21,7 +21,6 @@ AI-Powered-Predictive-Maintenance/
 ├── app.py
 ├── requirements.txt
 ├── .gitignore
-├── LICENSE
 ├── README.md
 ├── data/
 │   └── README.md
