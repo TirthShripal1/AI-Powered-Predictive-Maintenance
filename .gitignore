@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Generated data and artifacts
+data/*.csv
+models/*.joblib
+models/*.json
+reports/*.csv
+reports/*.png
+reports/*.txt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
